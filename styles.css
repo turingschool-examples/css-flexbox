@@ -1,0 +1,32 @@
+body {
+  background-color: #dfe6e9;
+}
+
+.box {
+  height: 75px;
+  width: 75px;
+}
+
+.box:nth-child(1) {
+  background-color: #fd79a8;
+}
+
+.box:nth-child(2) {
+  background-color: #74b9ff;
+}
+
+.box:nth-child(3) {
+  background-color: #a29bfe;
+}
+
+.wrapper {
+  background-color: white;
+  width: 50%;
+  height: 300px;
+  border: solid 1px black;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
