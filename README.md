@@ -15,6 +15,8 @@ Apply `display: flex` to the parent container.  `.wrapper`
 
 Then, apply different versions of the following styles to the parent to see how the children get aligned:  
 
+
+```css
 * flex-direction: (choose one below)   
                  row;   
                  column;   
@@ -32,3 +34,4 @@ Then, apply different versions of the following styles to the parent to see how 
                 flex-end;  
                 center;  
                 baseline;   
+```
