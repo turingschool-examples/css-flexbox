@@ -15,20 +15,20 @@ Apply `display: flex` to the parent container.  `.wrapper`
 
 Then, apply different versions of the following styles to the parent to see how the children get aligned:  
 
-* flex-direction: (choose one below) 
-                 row; 
-                 column; 
+* flex-direction: (choose one below)   
+                 row;   
+                 column;   
 
-* justify-content: (choose one below)
-                    center;
-                    space-around;
-                    space-between;
-                    space-evenly;
-                    flex-end; 
+* justify-content: (choose one below)  
+                    center;  
+                    space-around;  
+                    space-between;  
+                    space-evenly;  
+                    flex-end;   
 
-* align-items: (choose one below)
-                stretch;
-                flex-start;
-                flex-end;
-                center;
-                baseline; 
+* align-items: (choose one below)  
+                stretch;  
+                flex-start;  
+                flex-end;  
+                center;  
+                baseline;   
