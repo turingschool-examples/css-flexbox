@@ -13,7 +13,12 @@ This is a repo version of the [CodePen](https://codepen.io/kaylaewood/pen/oNBdGE
 
 Apply `display: flex` to the parent container.  `.wrapper`
 
-Then, apply different versions of the following styles to the parent to see how the children get aligned:  
+Then, use the browser's dev tools to apply different versions of the following styles to the parent to see how the children get aligned:  
+
+Tips for using the Dev Tools:
+- Find or type the style declaration in the 'styles' section of the dev tools.  Ex.  `justify-content: center`
+- Double click the value of the style. Then hit delete. Ex. Double click `center` then hit the delete key.
+- Your cursor will remain there, ready to type in whatever value.  A popup box will show with all the value options for that style.  You can use the up and down arrow keys to scroll and see each option being applied. 
 
 
 ```css
