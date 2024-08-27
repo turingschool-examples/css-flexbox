@@ -1,5 +1,14 @@
 body {
   background-color: #dfe6e9;
+  margin: 0;
+}
+
+
+.wrapper {
+  background-color: white;
+  width: 50%;
+  height: 300px;
+  border: solid 1px black;
 }
 
 .box {
@@ -19,12 +28,29 @@ body {
   background-color: #a29bfe;
 }
 
-.wrapper {
-  background-color: white;
-  width: 50%;
-  height: 300px;
-  border: solid 1px black;
+.small-box {
+  width: 20px;
+  height: 20px; 
+  background-color: yellow;
+  border: 1px solid black;
 }
 
+/* // Challenge 1 */
+
+/* Move the pink, purple, and blue boxes so they are stacked in a column, horizontally centered, and vertically spaced apart evenly.  */
 
 
+
+
+/* // Challenge 2 */
+
+/* Move the yellow boxes so they are in a horizontal row, at the bottom right corner of the pink box */
+
+
+
+
+/* // Challenge 3 */
+
+/* Move the white box (.wrapper) to the center of the page. The white box should be centered both vertically and horizontally. */
+
+/* Need a hint? Add a border to the body. What do you notice about its height?  */
