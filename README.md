@@ -4,7 +4,8 @@ This is a repo version of the [CodePen](https://codepen.io/kaylaewood/pen/oNBdGE
 
 ## Set Up Instructions
 
-- clone this repo
+- Do NOT fork!
+- Clone this repo
 - cd into the repo
 - open in your text editor
 - use `open index.html` to open in your browser
